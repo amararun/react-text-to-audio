@@ -2,6 +2,7 @@
   "name": "react-text-to-audio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://tigzig.com",
   "dependencies": {
     "@radix-ui/react-select": "^2.1.1",
     "@radix-ui/react-slot": "^1.1.0",
